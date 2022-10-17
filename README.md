@@ -1,0 +1,2 @@
+# UlearningExamAPI
+可以获取到ULearning考试结果的答案，不是作弊工具，只能获取交卷后的答案
